@@ -93,7 +93,7 @@ To use the project analysis:
 Clone the Cryptocurrency_Stock_Correlation repository from GitHub:
 
 ```python
-git clone https://github.com/jpweldon/Cryptocurrency_Stock_Correlation.git
+https://github.com/elliotlozano/crypto_market_correlation.git
 ```
 
 Add an environment file to the Resources folder with your Quandl and Alpaca keys.
