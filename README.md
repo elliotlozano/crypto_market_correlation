@@ -1,5 +1,5 @@
 # Cryptocurrency Price Action versus Stock Market and Volatility Index
-Project 1 for Rice University's FinTech Boot Camp
+`Project 1 for Rice University's FinTech Boot Camp`
 
 ---
 
@@ -84,11 +84,17 @@ Before running the application first install the following dependencies:
 
 ## Usage
 
+View the presentation:
+
+(https://docs.google.com/presentation/d/e/2PACX-1vRulmInJZKnTwcHUtwUT1vCobOu6yH5zvYDOQ1joVddd4E3X8v_h4-5GnJZvcoYcQ/pub?start=true&loop=false&delayms=60000)
+
 To use the project analysis:
 
 Clone the Cryptocurrency_Stock_Correlation repository from GitHub:
 
-'git clone https://github.com/jpweldon/Cryptocurrency_Stock_Correlation.git'
+```python
+git clone https://github.com/jpweldon/Cryptocurrency_Stock_Correlation.git
+```
 
 Add an environment file to the Resources folder with your Quandl and Alpaca keys.
 
